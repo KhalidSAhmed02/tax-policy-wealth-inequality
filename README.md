@@ -3,6 +3,8 @@
 
  **Author:** Khalid Ahmed    
  **Focus:** Economic Policy, Wealth Distribution, Tax Reform
+ **Link To Paper:** [Link](paper/The_Role_of_Tax_Policy.pdf)
+
 
 ---
 
