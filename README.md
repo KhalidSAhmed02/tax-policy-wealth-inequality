@@ -1,9 +1,9 @@
 # tax-policy-wealth-inequality
 # The Role of Tax Policy in Shaping Wealth Inequality
+**Author:** Khalid Ahmed  
+**Focus:** Economic Policy, Wealth Distribution, Tax Reform  
+**Writing Sample:** [Read the Paper (PDF)](tax_policy_sample.pdf)
 
- **Author:** Khalid Ahmed    
- **Focus:** Economic Policy, Wealth Distribution, Tax Reform
- **Link To Paper:** [Link](paper/The_Role_of_Tax_Policy.pdf)
 
 
 ---
