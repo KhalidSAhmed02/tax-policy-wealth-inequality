@@ -35,10 +35,10 @@ I wrote this paper to bridge theoretical economic models with real-world inequal
 ## Future Additions
 
 This repository will expand to include:
-- 📊 Data visualizations (wealth trends, tax changes, etc.)
-- 📈 Interactive charts using Python or Plotly
-- 🧮 Analytical models (e.g., earnings distribution, investment returns)
-- 📝 Policy briefs and summary visuals
+- Data visualizations (wealth trends, tax changes, etc.)
+- Interactive charts using Python or Plotly
+- Analytical models (e.g., earnings distribution, investment returns)
+- Policy briefs and summary visuals
 
 ---
 
